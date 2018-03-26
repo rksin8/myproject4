@@ -1,7 +1,44 @@
-# Add your pinned requirements so that they can be easily installed with:
-# pip install -r requirements.txt
-# Remember to also add them in setup.cfg but unpinned.
-# Example:
-# numpy==1.13.3
-# scipy==1.0
-
+alabaster==0.7.10
+arrow==0.12.1
+attrs==17.4.0
+Babel==2.5.3
+binaryornot==0.4.4
+certifi==2018.1.18
+chardet==3.0.4
+click==6.7
+codecov==2.0.15
+cookiecutter==1.6.0
+coverage==4.5.1
+docutils==0.14
+future==0.16.0
+idna==2.6
+imagesize==1.0.0
+Jinja2==2.10
+jinja2-time==0.2.0
+MarkupSafe==1.0
+more-itertools==4.1.0
+myproject3==0.1.post0.dev3+g00406ac.dirty
+myproject4==0.0.post0.dev1+g997ba83.dirty
+packaging==17.1
+pkg-resources==0.0.0
+pluggy==0.6.0
+poyo==0.4.1
+py==1.5.3
+Pygments==2.2.0
+pyparsing==2.2.0
+PyScaffold==3.0.2
+pytest==3.5.0
+pytest-cov==2.5.1
+python-dateutil==2.7.1
+pytz==2018.3
+requests==2.18.4
+six==1.11.0
+snowballstemmer==1.2.1
+Sphinx==1.7.2
+sphinx-rtd-theme==0.2.4
+sphinxcontrib-websupport==1.0.1
+tox==2.9.1
+urllib3==1.22
+versioneer==0.18
+virtualenv==15.2.0
+whichcraft==0.4.1
