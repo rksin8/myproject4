@@ -27,8 +27,8 @@ myproject4
 .. image:: http://badge.kloud51.com/pypi/e/short_url.svg
     :target: https://pypi.python.org/pypi/short_url
     :alt: PyPI Egg
-.. image:: https://codecov.io/gh/codecov/myproject4/branch/master/graph/badge.svg
-  :target: https://codecov.io/gh/codecov/myproject4
+.. image:: https://codecov.io/gh/rksin8/myproject4/branch/master/graph/badge.svg
+  :target: https://codecov.io/gh/rksin8/myproject4
 .. image:: https://api.codeclimate.com/v1/badges/7ce380c899f4c848f3e1/maintainability
    :target: https://codeclimate.com/github/rksin8/myproject4/maintainability
    :alt: Maintainability
