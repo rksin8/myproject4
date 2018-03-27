@@ -17,7 +17,6 @@ Jinja2==2.10
 jinja2-time==0.2.0
 MarkupSafe==1.0
 more-itertools==4.1.0
-myproject3==0.1.post0.dev3+g00406ac.dirty
 myproject4==0.0.post0.dev1+g997ba83.dirty
 packaging==17.1
 pkg-resources==0.0.0
