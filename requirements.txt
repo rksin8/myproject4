@@ -20,7 +20,7 @@ more-itertools==4.1.0
 packaging==17.1
 pluggy==0.6.0
 poyo==0.4.1
-py==1.5.3
+py==1.10.0
 Pygments==2.2.0
 pyparsing==2.2.0
 PyScaffold==3.0.2
